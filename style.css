@@ -1,0 +1,11 @@
+body{
+    background-color:whitesmoke;
+}
+
+.start{
+    height: 30px;
+    width: 90px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
